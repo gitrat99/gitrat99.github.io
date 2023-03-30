@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>test</title>
-    <link href="https://gitrat99.github.io/gitrat99.github.io/feed.xml" rel="self" />
-    <link href="https://gitrat99.github.io/gitrat99.github.io" />
+    <link href="https://gitrat99.github.io/feed.xml" rel="self" />
+    <link href="https://gitrat99.github.io" />
     <updated>2023-03-30T05:07:27-07:00</updated>
     <author>
         <name>test-auth</name>
     </author>
-    <id>https://gitrat99.github.io/gitrat99.github.io</id>
+    <id>https://gitrat99.github.io</id>
 
     <entry>
         <title>embed bitchute</title>
         <author>
             <name>test-auth</name>
         </author>
-        <link href="https://gitrat99.github.io/gitrat99.github.io/embed-bitchute.html"/>
-        <id>https://gitrat99.github.io/gitrat99.github.io/embed-bitchute.html</id>
+        <link href="https://gitrat99.github.io/embed-bitchute.html"/>
+        <id>https://gitrat99.github.io/embed-bitchute.html</id>
 
         <updated>2023-03-29T14:00:14-07:00</updated>
             <summary>
@@ -35,8 +35,8 @@
         <author>
             <name>test-auth</name>
         </author>
-        <link href="https://gitrat99.github.io/gitrat99.github.io/wysiwyg-test.html"/>
-        <id>https://gitrat99.github.io/gitrat99.github.io/wysiwyg-test.html</id>
+        <link href="https://gitrat99.github.io/wysiwyg-test.html"/>
+        <id>https://gitrat99.github.io/wysiwyg-test.html</id>
 
         <updated>2023-03-29T12:00:50-07:00</updated>
             <summary>
@@ -182,8 +182,8 @@
         <author>
             <name>test-auth</name>
         </author>
-        <link href="https://gitrat99.github.io/gitrat99.github.io/in-clash-with-bernie-sanders-starbucks-howard-schultz-insists-hes-no-union-buster.html"/>
-        <id>https://gitrat99.github.io/gitrat99.github.io/in-clash-with-bernie-sanders-starbucks-howard-schultz-insists-hes-no-union-buster.html</id>
+        <link href="https://gitrat99.github.io/in-clash-with-bernie-sanders-starbucks-howard-schultz-insists-hes-no-union-buster.html"/>
+        <id>https://gitrat99.github.io/in-clash-with-bernie-sanders-starbucks-howard-schultz-insists-hes-no-union-buster.html</id>
 
         <updated>2023-03-29T11:54:03-07:00</updated>
             <summary>
@@ -286,8 +286,8 @@ https://media.npr.org/assets/img/2023/03/29/img_1136-1--910a8ab1c6fb1e876e3c081f
         <author>
             <name>test-auth</name>
         </author>
-        <link href="https://gitrat99.github.io/gitrat99.github.io/house-lawmakers-tear-into-top-bank-regulators-in-second-hearing-this-week-on-svb-collapse.html"/>
-        <id>https://gitrat99.github.io/gitrat99.github.io/house-lawmakers-tear-into-top-bank-regulators-in-second-hearing-this-week-on-svb-collapse.html</id>
+        <link href="https://gitrat99.github.io/house-lawmakers-tear-into-top-bank-regulators-in-second-hearing-this-week-on-svb-collapse.html"/>
+        <id>https://gitrat99.github.io/house-lawmakers-tear-into-top-bank-regulators-in-second-hearing-this-week-on-svb-collapse.html</id>
 
         <updated>2023-03-29T11:53:01-07:00</updated>
             <summary>
@@ -329,8 +329,8 @@ https://media.npr.org/assets/img/2023/03/29/img_1136-1--910a8ab1c6fb1e876e3c081f
         <author>
             <name>test-auth</name>
         </author>
-        <link href="https://gitrat99.github.io/gitrat99.github.io/this-is-h1.html"/>
-        <id>https://gitrat99.github.io/gitrat99.github.io/this-is-h1.html</id>
+        <link href="https://gitrat99.github.io/this-is-h1.html"/>
+        <id>https://gitrat99.github.io/this-is-h1.html</id>
 
         <updated>2023-03-29T03:23:33-07:00</updated>
             <summary>
@@ -354,8 +354,8 @@ for code
         <author>
             <name>test-auth</name>
         </author>
-        <link href="https://gitrat99.github.io/gitrat99.github.io/post-two.html"/>
-        <id>https://gitrat99.github.io/gitrat99.github.io/post-two.html</id>
+        <link href="https://gitrat99.github.io/post-two.html"/>
+        <id>https://gitrat99.github.io/post-two.html</id>
 
         <updated>2023-03-29T03:11:01-07:00</updated>
             <summary>
@@ -383,8 +383,8 @@ for code
         <author>
             <name>test-auth</name>
         </author>
-        <link href="https://gitrat99.github.io/gitrat99.github.io/test-first-post.html"/>
-        <id>https://gitrat99.github.io/gitrat99.github.io/test-first-post.html</id>
+        <link href="https://gitrat99.github.io/test-first-post.html"/>
+        <id>https://gitrat99.github.io/test-first-post.html</id>
 
         <updated>2023-03-30T05:07:27-07:00</updated>
             <summary>

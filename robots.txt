@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://gitrat99.github.io/gitrat99.github.io/sitemap.xml
+Sitemap: https://gitrat99.github.io/sitemap.xml
