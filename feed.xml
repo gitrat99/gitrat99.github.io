@@ -3,7 +3,7 @@
     <title>test</title>
     <link href="https://gitrat99.github.io/feed.xml" rel="self" />
     <link href="https://gitrat99.github.io" />
-    <updated>2023-03-30T06:28:22-07:00</updated>
+    <updated>2023-03-30T13:27:03-07:00</updated>
     <author>
         <name>test-auth</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://gitrat99.github.io/patent-test.html"/>
         <id>https://gitrat99.github.io/patent-test.html</id>
 
-        <updated>2023-03-30T06:28:22-07:00</updated>
+        <updated>2023-03-30T09:13:23-07:00</updated>
             <summary>
                 <![CDATA[
                     lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem&hellip;
@@ -60,7 +60,7 @@
         <link href="https://gitrat99.github.io/wysiwyg-test.html"/>
         <id>https://gitrat99.github.io/wysiwyg-test.html</id>
 
-        <updated>2023-03-29T12:00:50-07:00</updated>
+        <updated>2023-03-30T13:27:03-07:00</updated>
             <summary>
                 <![CDATA[
                     Strapi is a free and open-source headless CMS delivering your content anywhere you need. Getting Started Read the Getting Started tutorial or follow the steps below: Install Strapi with this Quickstart command to create a Strapi project instantly: yarn create strapi-app my-project --quickstart or npx create-strapi-app my-project --quickstart&hellip;
