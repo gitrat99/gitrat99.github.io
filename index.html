@@ -38,42 +38,51 @@
                   </span>
                </button>
              <ul class="navbar__menu">
-                      <li class="active">
+                      <li class="active has-submenu">
                         <a
                            href="https://gitrat99.github.io/"
                               title="sub1"
                               target="_self"
-         >
+                              aria-haspopup="true"
+                           >
                            sub1
                        </a>
          
-                  </li>
-                      <li>
-                        <a
-                           href="https://gitrat99.github.io/post-two.html"
-                              target="_self"
-         >
-                           sub2
-                       </a>
-         
-                  </li>
-                      <li>
-                        <a
-                           href="https://gitrat99.github.io/#"
-                              target="_self"
-         >
-                           sub3
-                       </a>
-         
-                  </li>
-                      <li>
-                        <a
-                           href="https://gitrat99.github.io/menu-3-page.html"
-                              target="_self"
-         >
-                           menu 3
-                       </a>
-         
+                            <ul class="navbar__submenu level-2" aria-hidden="true" >
+                                     <li class="has-submenu">
+                                       <a
+                                          href="https://gitrat99.github.io/post-two.html"
+                                             target="_self"
+                                             aria-haspopup="true"
+                                          >
+                                          sub2
+                                      </a>
+                        
+                                           <ul class="navbar__submenu level-3" aria-hidden="true" >
+                                                    <li class="has-submenu">
+                                                      <a
+                                                         href="https://gitrat99.github.io/#"
+                                                            target="_self"
+                                                            aria-haspopup="true"
+                                                         >
+                                                         sub3
+                                                     </a>
+                                       
+                                                          <ul class="navbar__submenu level-4" aria-hidden="true" >
+                                                                   <li>
+                                                                     <a
+                                                                        href="https://gitrat99.github.io/menu-3-page.html"
+                                                                           target="_self"
+                                                      >
+                                                                        menu 3
+                                                                    </a>
+                                                      
+                                                               </li>
+                                                          </ul>
+                                                </li>
+                                           </ul>
+                                 </li>
+                            </ul>
                   </li>
                       <li>
                         <a
