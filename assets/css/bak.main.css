@@ -4,74 +4,35 @@
 */
 
 /*** Layout ***/
-main {
+body {
    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
    font-size: 1rem;
    font-weight: 400;
    line-height: 1.6;
    color: #313131;
    display: grid;
-   /* grid-template-columns: auto minmax(auto, var(--main-width)) var(--sidebar-width) auto; */
-   grid-template-columns: repeat(auto-fit, minmax(10rem, 20rem));
-   /* grid-template-areas:
-      "header header header header"
-      "kangol kangol kangol kangol"
-      "main main sidebar ."
-      "subfooter subfooter subfooter subfooter"
-      "footer footer footer footer"; */
+   grid-template-columns: auto minmax(auto, var(--main-width)) var(--sidebar-width) auto;
+   grid-template-areas: ". header header ."
+      ". main sidebar ."
+      ". footer footer .";
    grid-gap: 4vw;
 }
 
-
 header {
    grid-area: header;
-   background-color: rgb(177, 177, 240);
 }
 
 main {
    grid-area: main;
-   background-color: rgb(163, 235, 185);
 }
 
 aside {
    grid-area: sidebar;
-   background-color: rgb(221, 151, 218);
 }
 
 footer {
    grid-area: footer;
-   background-color: rgb(236, 209, 173);
 }
-
-subfooter {
-   grid-area: subfooter;
-   background-color: blue;
-   height: 50px;
-}
-
-
-.one {
-   grid-area: one;
-   background-color: red;
-   height: 100px;
-   width: 100%;
-}
-
-.two {
-   grid-area: two;
-   background-color: blue;
-   height: 100px;
-   width: 100%;
-}
-
-.three {
-   grid-area: three;
-   background-color: green;
-   height: 100px;
-   width: 100%;
-}
-
-
 
 img {
    height: auto;
@@ -152,22 +113,3 @@ hr {}
 .has-submenu {}
 
 .active-parent {}
-
-
-/* ============================ my custom */
-
-.bigwords {
-   font-size: 40px;
-}
-
-article>p {
-   font-size: 30px;
-}
-
-#post-entry {
-   font-size: 40px;
-}
-
-.section {
-   background-color: blue;
-}

@@ -3,12 +3,55 @@
     <title>test</title>
     <link href="https://gitrat99.github.io/feed.xml" rel="self" />
     <link href="https://gitrat99.github.io" />
-    <updated>2023-03-30T22:48:36-07:00</updated>
+    <updated>2023-04-02T18:15:50-07:00</updated>
     <author>
         <name>test-auth</name>
     </author>
     <id>https://gitrat99.github.io</id>
 
+    <entry>
+        <title>bigwords test</title>
+        <author>
+            <name>test-auth</name>
+        </author>
+        <link href="https://gitrat99.github.io/bigwords-test.html"/>
+        <id>https://gitrat99.github.io/bigwords-test.html</id>
+            <category term="one tag"/>
+
+        <updated>2023-04-02T18:13:11-07:00</updated>
+            <summary>
+                <![CDATA[
+                    this is text in regular editor. this is biggggg words
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>this is text in regular editor.</p>
+<p>this is </p>
+<p><span class="bigwords">biggggg words</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>menu kangol</title>
+        <author>
+            <name>test-auth</name>
+        </author>
+        <link href="https://gitrat99.github.io/menu-kangol.html"/>
+        <id>https://gitrat99.github.io/menu-kangol.html</id>
+
+        <updated>2023-04-01T19:50:56-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu id sem.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu id sem. In tincidunt maximus dolor a scelerisque. Cras orci nisl, rutrum non venenatis quis, volutpat eu lorem. Cras turpis lacus, pulvinar et finibus non, pulvinar eget risus. Praesent ut imperdiet nunc. Cras pulvinar velit ac nisl elementum, quis ultricies mi faucibus. Sed quis nibh sodales, ultricies tortor vel, consequat orci. Pellentesque in metus malesuada, sagittis risus sed, ornare odio.<br><br>Suspendisse ac lacus risus. Aliquam erat volutpat. Vestibulum non aliquam sapien. Suspendisse rhoncus urna sit amet sem cursus maximus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut sit amet nulla ut felis efficitur vestibulum quis ut augue. Morbi in eleifend ipsum. Duis vel nunc sapien. Vestibulum non eleifend felis. Sed vel neque leo. Nullam imperdiet eget nulla eget tincidunt.<br><br>Aliquam erat volutpat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed varius sollicitudin lectus, sed venenatis magna facilisis vel. Curabitur et interdum dolor. Cras blandit non justo at sollicitudin. Cras a mi at diam congue tempor eget sit amet orci. Quisque auctor felis vel est sollicitudin rhoncus. Integer eget risus diam. Cras ultrices nibh erat, quis vestibulum augue congue auctor. In laoreet tincidunt justo vel blandit. Integer ut justo ac lectus commodo tristique vitae vel ligula. Etiam varius felis eget tellus consectetur, id blandit enim sodales.<br><br>Integer neque lectus, ornare vel dolor quis, faucibus finibus orci. Quisque interdum sit amet sem id vulputate. Ut vestibulum magna ut lorem placerat, eu lacinia elit congue. Nunc iaculis volutpat dui. Praesent ultricies molestie quam non bibendum. Duis sagittis consectetur pharetra. Maecenas non augue ut metus pulvinar sollicitudin. Praesent ullamcorper sagittis ligula, vitae tincidunt urna hendrerit non. Vestibulum malesuada dui sed dui molestie interdum. Suspendisse hendrerit tellus eu gravida lobortis. Donec vehicula fringilla magna tincidunt dignissim. Praesent a magna finibus, eleifend risus vel, accumsan ipsum. Nullam eget quam augue. Etiam eu tempor massa, nec auctor purus.<br><br>Aliquam eu tempor arcu. Donec in lacus imperdiet, luctus tortor eu, ultrices ex. Aenean gravida dignissim risus, ac finibus risus malesuada faucibus. Proin faucibus blandit justo, nec laoreet eros rutrum ut. Donec sit amet dui nunc. Donec vel libero diam. Morbi sed felis eu lacus dictum laoreet vel vel elit. Cras tortor dolor, feugiat vulputate ipsum a, fringilla pharetra nulla. Ut mauris purus, ullamcorper vel commodo sit amet, tristique non mi. Nulla dignissim nisl vitae elit ultrices, vel suscipit purus ultricies. Quisque id iaculis eros. Aenean ornare mi in elit pharetra, a semper dui mollis. Nulla varius consequat blandit. Mauris non venenatis quam. Aenean pulvinar, lorem at feugiat vestibulum, erat ipsum pretium neque, ac rhoncus enim ex at leo. Etiam quis odio non neque condimentum maximus viverra a turpis.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>new post under starter theme</title>
         <author>
@@ -16,15 +59,19 @@
         </author>
         <link href="https://gitrat99.github.io/new-post-under-starter-theme.html"/>
         <id>https://gitrat99.github.io/new-post-under-starter-theme.html</id>
+        <media:content url="https://gitrat99.github.io/media/posts/11/pexels-photo-12136490.jpeg" medium="image" />
+            <category term="two tag"/>
 
-        <updated>2023-03-30T22:48:36-07:00</updated>
+        <updated>2023-04-02T18:13:25-07:00</updated>
             <summary>
                 <![CDATA[
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu id sem. In tincidunt maximus dolor a scelerisque. Cras orci nisl, rutrum non venenatis quis, volutpat eu lorem. Cras turpis lacus, pulvinar&hellip;
+                        <img src="https://gitrat99.github.io/media/posts/11/pexels-photo-12136490.jpeg" alt="" />
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu id sem.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://gitrat99.github.io/media/posts/11/pexels-photo-12136490.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu id sem. In tincidunt maximus dolor a scelerisque. Cras orci nisl, rutrum non venenatis quis, volutpat eu lorem. Cras turpis lacus, pulvinar et finibus non, pulvinar eget risus. Praesent ut imperdiet nunc. Cras pulvinar velit ac nisl elementum, quis ultricies mi faucibus. Sed quis nibh sodales, ultricies tortor vel, consequat orci. Pellentesque in metus malesuada, sagittis risus sed, ornare odio.<br><br>Suspendisse ac lacus risus. Aliquam erat volutpat. Vestibulum non aliquam sapien. Suspendisse rhoncus urna sit amet sem cursus maximus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut sit amet nulla ut felis efficitur vestibulum quis ut augue. Morbi in eleifend ipsum. Duis vel nunc sapien. Vestibulum non eleifend felis. Sed vel neque leo. Nullam imperdiet eget nulla eget tincidunt.<br><br>Aliquam erat volutpat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed varius sollicitudin lectus, sed venenatis magna facilisis vel. Curabitur et interdum dolor. Cras blandit non justo at sollicitudin. Cras a mi at diam congue tempor eget sit amet orci. Quisque auctor felis vel est sollicitudin rhoncus. Integer eget risus diam. Cras ultrices nibh erat, quis vestibulum augue congue auctor. In laoreet tincidunt justo vel blandit. Integer ut justo ac lectus commodo tristique vitae vel ligula. Etiam varius felis eget tellus consectetur, id blandit enim sodales.<br><br>Integer neque lectus, ornare vel dolor quis, faucibus finibus orci. Quisque interdum sit amet sem id vulputate. Ut vestibulum magna ut lorem placerat, eu lacinia elit congue. Nunc iaculis volutpat dui. Praesent ultricies molestie quam non bibendum. Duis sagittis consectetur pharetra. Maecenas non augue ut metus pulvinar sollicitudin. Praesent ullamcorper sagittis ligula, vitae tincidunt urna hendrerit non. Vestibulum malesuada dui sed dui molestie interdum. Suspendisse hendrerit tellus eu gravida lobortis. Donec vehicula fringilla magna tincidunt dignissim. Praesent a magna finibus, eleifend risus vel, accumsan ipsum. Nullam eget quam augue. Etiam eu tempor massa, nec auctor purus.<br><br>Aliquam eu tempor arcu. Donec in lacus imperdiet, luctus tortor eu, ultrices ex. Aenean gravida dignissim risus, ac finibus risus malesuada faucibus. Proin faucibus blandit justo, nec laoreet eros rutrum ut. Donec sit amet dui nunc. Donec vel libero diam. Morbi sed felis eu lacus dictum laoreet vel vel elit. Cras tortor dolor, feugiat vulputate ipsum a, fringilla pharetra nulla. Ut mauris purus, ullamcorper vel commodo sit amet, tristique non mi. Nulla dignissim nisl vitae elit ultrices, vel suscipit purus ultricies. Quisque id iaculis eros. Aenean ornare mi in elit pharetra, a semper dui mollis. Nulla varius consequat blandit. Mauris non venenatis quam. Aenean pulvinar, lorem at feugiat vestibulum, erat ipsum pretium neque, ac rhoncus enim ex at leo. Etiam quis odio non neque condimentum maximus viverra a turpis.</p>
             ]]>
         </content>
@@ -36,16 +83,17 @@
         </author>
         <link href="https://gitrat99.github.io/images-of-static-site-gens.html"/>
         <id>https://gitrat99.github.io/images-of-static-site-gens.html</id>
+            <category term="three tag"/>
 
-        <updated>2023-03-30T21:41:19-07:00</updated>
+        <updated>2023-04-02T18:13:55-07:00</updated>
             <summary>
                 <![CDATA[
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu id sem. In tincidunt maximus dolor a scelerisque. Cras orci nisl, rutrum non venenatis quis, volutpat eu lorem. Cras turpis lacus, pulvinar&hellip;
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu id sem.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://gitrat99.github.io/media/posts/10/ssg.png" alt="" width="1261" height="830" sizes="100vw" srcset="https://gitrat99.github.io/media/posts/10/responsive/ssg-xs.png 300w ,https://gitrat99.github.io/media/posts/10/responsive/ssg-sm.png 480w ,https://gitrat99.github.io/media/posts/10/responsive/ssg-md.png 768w ,https://gitrat99.github.io/media/posts/10/responsive/ssg-lg.png 1024w ,https://gitrat99.github.io/media/posts/10/responsive/ssg-xl.png 1360w ,https://gitrat99.github.io/media/posts/10/responsive/ssg-2xl.png 1600w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://gitrat99.github.io/media/posts/10/ssg.png" alt="" width="1261" height="830" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://gitrat99.github.io/media/posts/10/responsive/ssg-xs.png 300w ,https://gitrat99.github.io/media/posts/10/responsive/ssg-sm.png 480w ,https://gitrat99.github.io/media/posts/10/responsive/ssg-md.png 749w ,https://gitrat99.github.io/media/posts/10/responsive/ssg-xl.png 1200w"></figure>
 <p> </p>
 <p> </p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu id sem. In tincidunt maximus dolor a scelerisque. Cras orci nisl, rutrum non venenatis quis, volutpat eu lorem. Cras turpis lacus, pulvinar et finibus non, pulvinar eget risus. Praesent ut imperdiet nunc. Cras pulvinar velit ac nisl elementum, quis ultricies mi faucibus. Sed quis nibh sodales, ultricies tortor vel, consequat orci. Pellentesque in metus malesuada, sagittis risus sed, ornare odio.<br><br>Suspendisse ac lacus risus. Aliquam erat volutpat. Vestibulum non aliquam sapien. Suspendisse rhoncus urna sit amet sem cursus maximus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut sit amet nulla ut felis efficitur vestibulum quis ut augue. Morbi in eleifend ipsum. Duis vel nunc sapien. Vestibulum non eleifend felis. Sed vel neque leo. Nullam imperdiet eget nulla eget tincidunt.<br><br>Aliquam erat volutpat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed varius sollicitudin lectus, sed venenatis magna facilisis vel. Curabitur et interdum dolor. Cras blandit non justo at sollicitudin. Cras a mi at diam congue tempor eget sit amet orci. Quisque auctor felis vel est sollicitudin rhoncus. Integer eget risus diam. Cras ultrices nibh erat, quis vestibulum augue congue auctor. In laoreet tincidunt justo vel blandit. Integer ut justo ac lectus commodo tristique vitae vel ligula. Etiam varius felis eget tellus consectetur, id blandit enim sodales.<br><br>Integer neque lectus, ornare vel dolor quis, faucibus finibus orci. Quisque interdum sit amet sem id vulputate. Ut vestibulum magna ut lorem placerat, eu lacinia elit congue. Nunc iaculis volutpat dui. Praesent ultricies molestie quam non bibendum. Duis sagittis consectetur pharetra. Maecenas non augue ut metus pulvinar sollicitudin. Praesent ullamcorper sagittis ligula, vitae tincidunt urna hendrerit non. Vestibulum malesuada dui sed dui molestie interdum. Suspendisse hendrerit tellus eu gravida lobortis. Donec vehicula fringilla magna tincidunt dignissim. Praesent a magna finibus, eleifend risus vel, accumsan ipsum. Nullam eget quam augue. Etiam eu tempor massa, nec auctor purus.<br><br>Aliquam eu tempor arcu. Donec in lacus imperdiet, luctus tortor eu, ultrices ex. Aenean gravida dignissim risus, ac finibus risus malesuada faucibus. Proin faucibus blandit justo, nec laoreet eros rutrum ut. Donec sit amet dui nunc. Donec vel libero diam. Morbi sed felis eu lacus dictum laoreet vel vel elit. Cras tortor dolor, feugiat vulputate ipsum a, fringilla pharetra nulla. Ut mauris purus, ullamcorper vel commodo sit amet, tristique non mi. Nulla dignissim nisl vitae elit ultrices, vel suscipit purus ultricies. Quisque id iaculis eros. Aenean ornare mi in elit pharetra, a semper dui mollis. Nulla varius consequat blandit. Mauris non venenatis quam. Aenean pulvinar, lorem at feugiat vestibulum, erat ipsum pretium neque, ac rhoncus enim ex at leo. Etiam quis odio non neque condimentum maximus viverra a turpis.</p>
@@ -59,11 +107,12 @@
         </author>
         <link href="https://gitrat99.github.io/menu-3-page.html"/>
         <id>https://gitrat99.github.io/menu-3-page.html</id>
+            <category term="one tag"/>
 
-        <updated>2023-03-30T19:26:34-07:00</updated>
+        <updated>2023-04-02T18:14:04-07:00</updated>
             <summary>
                 <![CDATA[
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu id sem. In tincidunt maximus dolor a scelerisque. Cras orci nisl, rutrum non venenatis quis, volutpat eu lorem. Cras turpis lacus, pulvinar&hellip;
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu id sem.
                 ]]>
             </summary>
         <content type="html">
@@ -79,16 +128,17 @@
         </author>
         <link href="https://gitrat99.github.io/patent-test.html"/>
         <id>https://gitrat99.github.io/patent-test.html</id>
+            <category term="two tag"/>
 
-        <updated>2023-03-30T09:13:23-07:00</updated>
+        <updated>2023-04-02T18:14:13-07:00</updated>
             <summary>
                 <![CDATA[
-                    lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem&hellip;
+                    lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://gitrat99.github.io/media/posts/8/throw_patent.png" alt="test pattent electro test" width="1113" height="482" sizes="100vw" srcset="https://gitrat99.github.io/media/posts/8/responsive/throw_patent-xs.png 300w ,https://gitrat99.github.io/media/posts/8/responsive/throw_patent-sm.png 480w ,https://gitrat99.github.io/media/posts/8/responsive/throw_patent-md.png 768w ,https://gitrat99.github.io/media/posts/8/responsive/throw_patent-lg.png 1024w ,https://gitrat99.github.io/media/posts/8/responsive/throw_patent-xl.png 1360w ,https://gitrat99.github.io/media/posts/8/responsive/throw_patent-2xl.png 1600w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://gitrat99.github.io/media/posts/8/throw_patent.png" alt="test pattent electro test" width="1113" height="482" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://gitrat99.github.io/media/posts/8/responsive/throw_patent-xs.png 300w ,https://gitrat99.github.io/media/posts/8/responsive/throw_patent-sm.png 480w ,https://gitrat99.github.io/media/posts/8/responsive/throw_patent-md.png 749w ,https://gitrat99.github.io/media/posts/8/responsive/throw_patent-xl.png 1200w"></figure>
 <p>lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl lorem allksajfljl </p>
 <p> </p>
             ]]>
@@ -101,8 +151,9 @@
         </author>
         <link href="https://gitrat99.github.io/embed-bitchute.html"/>
         <id>https://gitrat99.github.io/embed-bitchute.html</id>
+            <category term="three tag"/>
 
-        <updated>2023-03-29T14:00:14-07:00</updated>
+        <updated>2023-04-02T18:14:32-07:00</updated>
             <summary>
                 <![CDATA[
                     jsaldfjalsjfdlajsf lksadflsajlfd jasl aslfd jlsa jfdlsa fdlasjflsajfd asj lfdlsa jfdlas fdlsajlk
@@ -122,11 +173,12 @@
         </author>
         <link href="https://gitrat99.github.io/wysiwyg-test.html"/>
         <id>https://gitrat99.github.io/wysiwyg-test.html</id>
+            <category term="one tag"/>
 
-        <updated>2023-03-30T13:27:03-07:00</updated>
+        <updated>2023-04-02T18:14:44-07:00</updated>
             <summary>
                 <![CDATA[
-                    Strapi is a free and open-source headless CMS delivering your content anywhere you need. Getting Started Read the Getting Started tutorial or follow the steps below: Install Strapi with this Quickstart command to create a Strapi project instantly: yarn create strapi-app my-project --quickstart or npx create-strapi-app my-project --quickstart&hellip;
+                    Strapi is a free and open-source headless CMS delivering your content anywhere you need. Getting Started Read the Getting Started tutorial or follow the steps below:&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -269,8 +321,9 @@
         </author>
         <link href="https://gitrat99.github.io/this-is-h1.html"/>
         <id>https://gitrat99.github.io/this-is-h1.html</id>
+            <category term="two tag"/>
 
-        <updated>2023-03-29T03:23:33-07:00</updated>
+        <updated>2023-04-02T18:15:40-07:00</updated>
             <summary>
                 <![CDATA[
                     this is h1 this is h2 some text here for code
@@ -294,11 +347,12 @@ for code
         </author>
         <link href="https://gitrat99.github.io/post-two.html"/>
         <id>https://gitrat99.github.io/post-two.html</id>
+            <category term="three tag"/>
 
-        <updated>2023-03-29T03:11:01-07:00</updated>
+        <updated>2023-04-02T18:15:50-07:00</updated>
             <summary>
                 <![CDATA[
-                    this is the 2nd post this is the 2nd post this is the 2nd post this is the 2nd post this is the 2nd post this is the 2nd post this is the 2nd post this is the 2nd post this is the 2nd post&hellip;
+                    this is the 2nd post this is the 2nd post this is the 2nd post this is the 2nd post this is the 2nd post&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -313,46 +367,6 @@ for code
 <p>this is the 2nd post</p>
 <p>this is the 2nd post</p>
 <p>this is the 2nd post</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>test first post NEW EDIT</title>
-        <author>
-            <name>test-auth</name>
-        </author>
-        <link href="https://gitrat99.github.io/test-first-post.html"/>
-        <id>https://gitrat99.github.io/test-first-post.html</id>
-
-        <updated>2023-03-30T05:07:27-07:00</updated>
-            <summary>
-                <![CDATA[
-                    new edit to page Some of the biggest names in tech are calling for artificial intelligence labs to stop the training of the most powerful AI systems for at least six months, citing “profound risks to society and humanity.” Elon Musk was among the dozens&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p data-uri="archive.cms.cnn.com/_components/paragraph/instances/paragraph_7128A7D7-281C-79F1-A28E-2DDC0F7A31F2@published" data-editable="text" data-component-name="paragraph">new edit to page</p>
-<p data-uri="archive.cms.cnn.com/_components/paragraph/instances/paragraph_7128A7D7-281C-79F1-A28E-2DDC0F7A31F2@published" data-editable="text" data-component-name="paragraph"> </p>
-<p data-uri="archive.cms.cnn.com/_components/paragraph/instances/paragraph_7128A7D7-281C-79F1-A28E-2DDC0F7A31F2@published" data-editable="text" data-component-name="paragraph">Some of the biggest names in tech are calling for artificial intelligence labs to stop the training of the most powerful AI systems for at least six months, citing “profound risks to society and humanity.”</p>
-<p class="paragraph inline-placeholder" data-uri="archive.cms.cnn.com/_components/paragraph/instances/paragraph_EC24C52B-246F-FA69-14F5-2DDCED3D0793@published" data-editable="text" data-component-name="paragraph">Elon Musk was among the dozens of<strong> </strong>tech leaders, professors and researchers who signed the letter, which was <a href="https://futureoflife.org/open-letter/pause-giant-ai-experiments/" target="_blank" rel="noopener">published</a> by the Future of Life Institute, a nonprofit <a href="https://futureoflife.org/people-group/donors/" target="_blank" rel="noopener">backed by Musk</a>.</p>
-<p class="paragraph inline-placeholder" data-uri="archive.cms.cnn.com/_components/paragraph/instances/paragraph_5D1B07D2-BE62-0A00-C39C-2E09DF2DB138@published" data-editable="text" data-component-name="paragraph">The letter comes just two weeks after OpenAI <a href="https://www.cnn.com/2023/03/16/tech/gpt-4-use-cases/index.html" target="_blank" rel="noopener">announced</a> GPT-4,<strong> </strong>an even more powerful version of the technology that underpins the viral AI chatbot tool,<strong> </strong>ChatGPT. In early tests and a company demo, the technology was shown drafting lawsuits, passing standardized exams and building a working website from a hand-drawn sketch.</p>
-<p class="paragraph inline-placeholder" data-uri="archive.cms.cnn.com/_components/paragraph/instances/paragraph_6CAC127A-FC59-1066-AE3D-2DDD1AEBB33B@published" data-editable="text" data-component-name="paragraph">The letter said the pause should apply to AI systems “more powerful than GPT-4.” It also said independent experts should use the proposed pause to jointly develop and implement a set of shared protocols for AI tools that are safe “beyond a reasonable doubt.”</p>
-<div class="related-content related-content--article" data-uri="archive.cms.cnn.com/_components/related-content/instances/related-content-h_7b0fc0dcc59d8a09f7a56aa9e426048b-h_53257e62ebafbea8d486691aa6ee5af8@published"><a class="related-content__link" href="https://www.cnn.com/2023/03/21/tech/google-bard/index.html">
-<div class="related-content__image image__related-content">
-<div class="image image__hide-placeholder" data-uri="archive.cms.cnn.com/_components/image/instances/thumbnail-related-a68bdae2131b1688e99b47b506f04b17@published" data-image-variation="image" data-name="20230322-google-chatGBT rival" data-component-name="image" data-observe-resizes="" data-breakpoints="{&quot;image--eq-extra-small&quot;: 115, &quot;image--eq-small&quot;: 300}" data-original-ratio="0.5625" data-original-height="900" data-original-width="1600" data-url="https://media.cnn.com/api/v1/images/stellar/prod/230321105823-20230322-google-chatgbt-rival.jpg?c=original" data-editable="settings">
-<div class="image__container " data-image-variation="image" data-breakpoints="{&quot;image--eq-extra-small&quot;: 115, &quot;image--eq-small&quot;: 300, &quot;image--show-credits&quot;: 596}"><figure class="image__dam-img image__dam-img--loading"><img loading="lazy"  src="https://media.cnn.com/api/v1/images/stellar/prod/230321105823-20230322-google-chatgbt-rival.jpg?c=16x9&amp;q=h_144,w_256,c_fill" alt="Google is rolling out its ChatGPT rival Bard" width="1600" height="900" data-is-external-image="true"></figure></picture></div>
-<div class="image__metadata"> </div>
-</div>
-</div>
-<p class="related-content__headline"><span class="related-content__headline-text">Google begins rolling out its ChatGPT rival</span></p>
-</a></div>
-<p class="paragraph inline-placeholder" data-uri="archive.cms.cnn.com/_components/paragraph/instances/paragraph_EC2EA10A-C30D-B4F8-4134-2DDCED3E242A@published" data-editable="text" data-component-name="paragraph">“Advanced AI could represent a profound change in the history of life on Earth, and should be planned for and managed with commensurate care and resources,” the letter <a href="https://futureoflife.org/open-letter/pause-giant-ai-experiments/" target="_blank" rel="noopener">said</a>. “Unfortunately, this level of planning and management is not happening, even though recent months have seen AI labs locked in an out-of-control race to develop and deploy ever more powerful digital minds that no one – not even their creators – can understand, predict, or reliably control.”</p>
-<p class="paragraph inline-placeholder" data-uri="archive.cms.cnn.com/_components/paragraph/instances/paragraph_FE77BCE5-4537-C11E-1602-2DDCED3E5037@published" data-editable="text" data-component-name="paragraph">If a pause is not put in place soon, the letter said governments should step in and create a moratorium.</p>
-<p class="paragraph inline-placeholder" data-uri="archive.cms.cnn.com/_components/paragraph/instances/paragraph_77AC928A-0594-3372-9688-2DDCED3FE0D1@published" data-editable="text" data-component-name="paragraph">The wave of attention around ChatGPT late last year helped renew an arms race among tech companies to develop and deploy similar AI tools in their products. OpenAI, Microsoft and Google are at the forefront of this trend, but IBM, Amazon, Baidu and Tencent are working on similar technologies. A long list of startups are also developing AI writing assistants and image generators.</p>
-<p class="paragraph inline-placeholder" data-uri="archive.cms.cnn.com/_components/paragraph/instances/paragraph_0338BA11-9043-E629-7798-2DDCED41375F@published" data-editable="text" data-component-name="paragraph">Artificial intelligence experts have become increasingly concerned about AI tools’ potential for biased responses, the ability to spread misinformation and the impact on consumer privacy. These tools have also sparked questions around how AI can upend professions, enable students to cheat, and shift our relationship with technology.</p>
-<p class="paragraph inline-placeholder" data-uri="archive.cms.cnn.com/_components/paragraph/instances/paragraph_EB10D2C0-F156-06ED-0B74-2DDCED457786@published" data-editable="text" data-component-name="paragraph">The letter hints at the broader discomfort inside and outside the industry with the rapid pace of advancement in AI. Some governing agencies in China, the EU and Singapore have previously<a href="https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence" target="_blank" rel="noopener"> introduced</a> early versions of AI governance frameworks.</p>
-<p class="correction inline-placeholder" data-uri="archive.cms.cnn.com/_components/correction/instances/correction-170cd7de28694f3dd62763e477d415d8@published" data-editable="text">Correction: An earlier version of this story said Microsoft founder Bill Gates and OpenAI CEO Sam Altman had signed the letter. While the executives were initially listed as signatories, the non-profit behind the letter later removed their names.</p>
             ]]>
         </content>
     </entry>
